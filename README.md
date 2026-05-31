@@ -33,9 +33,10 @@
 <!--                         ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-##  About Me
+## About Me
 
 <img align="right" src="https://raw.githubusercontent.com/mernaahany/mernaahany/main/ai-network.svg" width="340" alt="Neural Network Animation"/>
+
 
 **AI & Machine Learning Engineer** building production-grade **Generative AI, NLP, and agentic systems**.  
 Currently an **AI Intern at GBG**, where I develop **LLM applications** and **multi-agent workflows** with a focus on scalable, real-world impact.  
@@ -254,19 +255,20 @@ I bridge advanced research with practical deployment, combining an **Mechatronic
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                             -->
+<!--   FIX 1 — GITHUB STATS: removed custom bg overrides that      -->
+<!--   conflict with the API; theme=tokyonight handles all colors   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mernaahany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F0F1A&title_color=818CF8&icon_color=6366F1&text_color=C7D2FE&ring_color=4F46E5" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mernaahany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernaahany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=818CF8&text_color=C7D2FE&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernaahany&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mernaahany&theme=tokyonight&hide_border=true&background=0F0F1A&ring=6366F1&fire=4F46E5&currStreakLabel=818CF8&sideLabels=C7D2FE&dates=6E7681&currStreakNum=E0E7FF&sideNums=E0E7FF" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=mernaahany&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
@@ -276,19 +278,20 @@ I bridge advanced research with practical deployment, combining an **Mechatronic
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE (GitHub Action)               -->
+<!--   FIX 2 — SNAKE: blob/ → raw.githubusercontent.com/output/    -->
+<!--   (blob/ shows the GitHub web page, not the raw SVG file)      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/mernaahany/mernaahany/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mernaahany/mernaahany/blob/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://github.com/mernaahany/mernaahany/blob/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mernaahany/mernaahany/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mernaahany/mernaahany/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mernaahany/mernaahany/output/github-snake.svg" width="100%"/>
 </picture>
 
 <!--
-  ⚙️  ACTIVATE SNAKE — create .github/workflows/snake.yml:
+  ⚙️  ACTIVATE SNAKE — create .github/workflows/snake.yml in mernaahany/mernaahany repo:
 
   name: Generate Snake
   on:
@@ -310,6 +313,9 @@ I bridge advanced research with practical deployment, combining an **Mechatronic
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  After saving, go to Actions tab → Generate Snake → Run workflow manually once.
+  Then it auto-runs every 12 hours.
 -->
 
 ---
@@ -325,7 +331,8 @@ I bridge advanced research with practical deployment, combining an **Mechatronic
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    LEADERSHIP SECTION                         -->
+<!--   FIX 3 — LEADERSHIP: replaced broken Handshake emoji path    -->
+<!--   with Megaphone (thematically correct for PR + confirmed URL) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Leadership & Community
@@ -345,7 +352,7 @@ I bridge advanced research with practical deployment, combining an **Mechatronic
       & competitive programs</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="48"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" width="48"/>
       <br/>
       <b>Head of Public Relations</b>
       <br/>
