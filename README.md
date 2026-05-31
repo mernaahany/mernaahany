@@ -35,7 +35,7 @@
 
 ##  About Me
 
-<img align="right" src="https://raw.githubusercontent.com/mernaahany/mernaahany/main/assets/ai-network.svg" width="340" alt="Neural Network Animation"/>
+<img align="right" src="https://raw.githubusercontent.com/mernaahany/mernaahany/main/ai-network.svg" width="340" alt="Neural Network Animation"/>
 
 **AI & Machine Learning Engineer** building production-grade **Generative AI, NLP, and agentic systems**.  
 Currently an **AI Intern at GBG**, where I develop **LLM applications** and **multi-agent workflows** with a focus on scalable, real-world impact.  
