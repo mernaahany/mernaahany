@@ -86,11 +86,11 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
     <td width="50%" valign="top">
       <h3 align="center">🗄️ DB Studio — Multi-Agent AI Platform</h3>
       <div align="center">
-        <a href="https://github.com/mernaahany/db-studio" target="_blank">
+        <a href="https://github.com/mernaahany/Database-Designer-Studio" target="_blank">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="60" alt="DB Studio"/>
         </a>
         <br/>
-        <a href="https://github.com/mernaahany/db-studio" target="_blank">
+        <a href="https://github.com/mernaahany/Database-Designer-Studio" target="_blank">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=818CF8&center=true&vCenter=true&width=420&lines=Multi-agent+LangGraph+platform;NL-to-SQL+%2B+Schema+Design+%2B+Modification;SQLGlot+validation+%2B+HITL+approval;90%25+less+SQL+effort+%C2%B7+80%25+faster+schema" alt="DB Studio" />
         </a>
         <br/>
@@ -101,7 +101,7 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
         <img src="https://img.shields.io/badge/Azure%20OpenAI-4F46E5?style=flat-square&logo=microsoftazure&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-6366F1?style=flat-square&logo=streamlit&logoColor=white"/>
         <br/><br/>
-        <a href="https://github.com/mernaahany/db-studio">
+        <a href="https://github.com/mernaahany/Database-Designer-Studio">
           <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
@@ -111,11 +111,11 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
     <td width="50%" valign="top">
       <h3 align="center">🎙️ Smart Meeting Assistant</h3>
       <div align="center">
-        <a href="https://github.com/mernaahany/smart-meeting-assistant" target="_blank">
+        <a href="https://github.com/mernaahany/AI-Meeting-Assistant" target="_blank">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" width="60" alt="Smart Meeting Assistant"/>
         </a>
         <br/>
-        <a href="https://github.com/mernaahany/smart-meeting-assistant" target="_blank">
+        <a href="https://github.com/mernaahany/AI-Meeting-Assistant" target="_blank">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=818CF8&center=true&vCenter=true&width=420&lines=End-to-end+multimodal+AI+pipeline;ASR+%2B+Speaker+Diarization+%2B+OCR+%2B+VLM;LangGraph+agentic+RAG+%2B+n8n+automation;Cross-meeting+knowledge+querying" alt="Smart Meeting" />
         </a>
         <br/>
@@ -126,8 +126,6 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
         <img src="https://img.shields.io/badge/Multimodal-4F46E5?style=flat-square"/>
         <img src="https://img.shields.io/badge/n8n-6366F1?style=flat-square&logo=n8n&logoColor=white"/>
         <br/><br/>
-        <a href="https://github.com/mernaahany/smart-meeting-assistant">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
