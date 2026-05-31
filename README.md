@@ -33,16 +33,14 @@
 <!--                         ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## About Me
+##  About Me
 
-<img align="right" src="https://raw.githubusercontent.com/mernaahany/mernaahany/main/ai-network.svg" width="340" alt="Neural Network Animation"/>
+<img align="right" src="https://raw.githubusercontent.com/mernaahany/mernaahany/main/assets/ai-network.svg" width="340" alt="Neural Network Animation"/>
 
-**AI & Machine Learning Engineer** building production-grade **Generative AI, NLP, and agentic systems**.
+**AI & Machine Learning Engineer** building production-grade **Generative AI, NLP, and agentic systems**.  
+Currently an **AI Intern at GBG**, where I develop **LLM applications** and **multi-agent workflows** with a focus on scalable, real-world impact.  
 
-Currently an **AI Intern at GBG**, developing **LLM applications** and **multi-agent systems** for scalable, real-world solutions.
-
-My Mechatronics background gives me a systems-first mindset, from data and architecture to deployment, and fuels my interest in **robotics, edge AI, and intelligent automation**.
-
+I bridge advanced research with practical deployment, combining an **Mechatronics Engineering** background with a strong interest in **robotics, edge AI, and intelligent automation**.
 
 <br/>
 
@@ -77,10 +75,6 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
         <img src="https://img.shields.io/badge/Docker-312E81?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-6366F1?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-818CF8?style=flat-square&logo=redis&logoColor=white"/>
-        <br/><br/>
-        <a href="https://github.com/mernaahany/siha-plus">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -126,6 +120,8 @@ My Mechatronics background gives me a systems-first mindset, from data and archi
         <img src="https://img.shields.io/badge/Multimodal-4F46E5?style=flat-square"/>
         <img src="https://img.shields.io/badge/n8n-6366F1?style=flat-square&logo=n8n&logoColor=white"/>
         <br/><br/>
+        <a href="https://github.com/mernaahany/AI-Meeting-Assistant">
+          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
